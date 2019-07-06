@@ -28,7 +28,7 @@ public class LoginService
 		}
 		catch(Exception exce)
 		{
-		System.out.println("LOL MY BAD DOG");
+		
 		}
 		
 		return false;
