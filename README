@@ -1,0 +1,9 @@
+//Program
+
+This program is a simple java logiS and registration system that uses spring and SQL
+The program starts by prsenting a login page that allows the user to enter a username and password
+The user name and password is validated agains and sql database when the user clicks login. 
+If the login is incorrect the user is prompted to try again.
+If the login is correct the user is directed to a jsp that tells them they are successful.
+Alternatively the user can register which will add their data to the SQL database.
+
